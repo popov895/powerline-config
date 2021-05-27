@@ -1,2 +1,1 @@
-# powerline-config
-Configuration for the powerline
+# Configuration for the powerline
