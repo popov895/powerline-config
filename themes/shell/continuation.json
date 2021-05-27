@@ -1,0 +1,11 @@
+{
+    "segments": {
+        "left": [
+            {
+                "type": "string",
+                "contents": ">",
+                "highlight_groups": ["continuation:current"]
+            }
+        ]
+    }
+}

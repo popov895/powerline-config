@@ -1,0 +1,28 @@
+{
+    "segments": {
+        "left": [
+            {
+                "function": "powerline.segments.common.env.cwd",
+                "args": {
+                    "ellipsis": "..",
+                    "shorten_home": true,
+                    "dir_shorten_len": 20,
+                    "dir_limit_depth": 3,
+                    "use_path_separator": true
+                },
+                "priority": 20
+            },
+            {
+                "function": "powerline.segments.common.vcs.branch",
+                "priority": 40,
+                "args": {
+                    "status_colors": true
+                }
+            },
+            {
+				"function": "powerline.segments.shell.last_pipe_status",
+				"priority": 10
+			}
+        ]
+    }
+}
