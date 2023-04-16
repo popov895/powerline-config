@@ -1,0 +1,28 @@
+{
+    "groups": {
+        "cwd": {
+            "fg": "black",
+            "bg": "adwaitablue"
+        },
+        "cwd:current_folder": {
+            "fg": "black",
+            "bg": "adwaitablue"
+        },
+        "cwd:divider": {
+            "fg": "black",
+            "bg": "adwaitablue"
+        },
+		"branch_dirty": {
+            "fg": "black",
+            "bg": "adwaitayellow"
+        },
+		"branch_clean": {
+            "fg": "black",
+            "bg": "adwaitagreen"
+        },
+        "critical:failure": {
+            "fg": "white",
+            "bg": "adwaitared"
+        }
+    }
+}

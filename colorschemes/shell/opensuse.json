@@ -1,0 +1,28 @@
+{
+    "groups": {
+        "cwd": {
+            "fg": "black",
+            "bg": "opensuseblue"
+        },
+        "cwd:current_folder": {
+            "fg": "black",
+            "bg": "opensuseblue"
+        },
+        "cwd:divider": {
+            "fg": "black",
+            "bg": "opensuseblue"
+        },
+		"branch_dirty": {
+            "fg": "black",
+            "bg": "opensuseyellow"
+        },
+		"branch_clean": {
+            "fg": "black",
+            "bg": "opensusegreen"
+        },
+        "critical:failure": {
+            "fg": "white",
+            "bg": "opensusered"
+        }
+    }
+}

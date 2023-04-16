@@ -1,0 +1,28 @@
+{
+    "groups": {
+        "cwd": {
+            "fg": "white",
+            "bg": "yarublue"
+        },
+        "cwd:current_folder": {
+            "fg": "white",
+            "bg": "yarublue"
+        },
+        "cwd:divider": {
+            "fg": "white",
+            "bg": "yarublue"
+        },
+		"branch_dirty": {
+            "fg": "black",
+            "bg": "yaruyellow"
+        },
+		"branch_clean": {
+            "fg": "black",
+            "bg": "yarugreen"
+        },
+        "critical:failure": {
+            "fg": "white",
+            "bg": "yarured"
+        }
+    }
+}
